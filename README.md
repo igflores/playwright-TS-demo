@@ -1,0 +1,1 @@
+Playwright-TS-demo: A demo repository for automated end-to-end testing with Playwright and TypeScript, showcasing my skills in creating reliable and maintainable test automation frameworks.
