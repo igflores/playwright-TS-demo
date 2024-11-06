@@ -1,6 +1,8 @@
 {
   "name": "playwright-TS-demo",
   "version": "1.0.0",
+  "description": "Playwright-TS-demo: A demo repository for automated end-to-end testing with Playwright and TypeScript, showcasing my skills in creating reliable and maintainable test automation frameworks.",:,
+  "author": "Isabel Gonzalez Flores",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
